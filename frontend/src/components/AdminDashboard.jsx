@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
 
 // Resolve backend API address dynamically
-const API_BASE = window.location.port === '5173' 
-  ? 'http://localhost:5000/api' 
-  : '/api';
+const API_BASE = window.location.port === '5173'
+  ? 'http://localhost:5000/api'
+  : 'https://vartaai-bot.onrender.com/api';
 
 const HARDCODED_PASSWORD = "varta123";
 
