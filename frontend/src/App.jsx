@@ -49,7 +49,7 @@ function App() {
               <ul className="text-muted small">
                 <li className="mb-2">Create <code>.env</code> inside the <code>server/</code> folder using <code>.env.example</code>.</li>
                 <li className="mb-2">Run <code>npm run dev</code> at the root to spin up Vite and the Express API server.</li>
-                <li className="mb-2">Open the main root homepage <code>index.html</code> (pointing to <a href="https://theshivanshvasu.com/" target="_blank" rel="noreferrer">https://theshivanshvasu.com/</a> for empty links) to see the floating chatbot widget working live!</li>
+                <li className="mb-2">Open the main root homepage <code>index.html</code> (pointing to <a href="/" target="_blank" rel="noreferrer">https://theshivanshvasu.com/</a> for empty links) to see the floating chatbot widget working live!</li>
               </ul>
             </div>
             <div className="text-center pt-3 border-top mt-4 text-muted small" style={{ fontSize: '0.8rem' }}>
